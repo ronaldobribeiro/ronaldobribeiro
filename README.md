@@ -7,6 +7,7 @@
  <img width="60" src="src/icon/sql.png">
  <img width="60" src="src/icon/bi.png">
  <img width="60" src="src/icon/excel.png">
+ <img width="60" src="src/icon/colab.png">
 </p>
 
 
