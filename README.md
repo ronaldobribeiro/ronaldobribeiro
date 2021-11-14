@@ -4,7 +4,7 @@
 <p align = "left">
  <img width="60" src="src/icon/R.png">
  <img width="60" src="src/icon/python.png">
- <img width="60" src="src/icon/sql.png">
+ <img width="80" src="src/icon/sql.png">
  <img width="60" src="src/icon/bi.png">
  <img width="60" src="src/icon/excel.png">
  <img width="60" src="src/icon/colab.png">
